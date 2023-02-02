@@ -4,4 +4,8 @@ class mcti
 	{
 		//code
 	}
+	public void m2()
+	{
+		//code
+	}
 }
